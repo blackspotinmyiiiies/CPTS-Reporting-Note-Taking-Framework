@@ -1,0 +1,9 @@
+# Ignore engagement-specific data
+**/01-Executive-Report.md
+**/02-Technical-Findings/
+**/03-Attack-Chains/
+**/04-Evidence/
+**/05-Tools-Output/
+**/06-Flags/
+**/Credentials-Summary.md
+**/00-QUICK-START.md
